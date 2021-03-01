@@ -4,5 +4,5 @@ title: 关于
 permalink: /关于/
 ---
 
-## 原因
-日常工作使用
+赠人玫瑰，手有余香
+有问题请邮件联系:sipoindex@outlook.com

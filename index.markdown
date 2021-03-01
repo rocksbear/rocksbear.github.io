@@ -5,9 +5,10 @@
 layout: home
 ---
 
-各国审查意见查询
+同族审查意见查询
+[baidu](https://baidu.com)
 
-wwwwww
-## 专利外网
+商业数据库
+
 
 
