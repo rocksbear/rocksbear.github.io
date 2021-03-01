@@ -9,7 +9,7 @@ layout: home
 
 [baidu](https://baidu.com)
 
-[baidu](https://baidu.com)
+[baidu](https://baidu.com){:target="_blank"}
 商业数据库
 
 
