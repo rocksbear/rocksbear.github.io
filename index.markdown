@@ -7,9 +7,11 @@ layout: home
 
 同族审查意见查询
 
-[baidu](https://baidu.com){:target="_blank"}
+[Golobal Dossier-美国](https://globaldossier.uspto.gov/#/){:target="_blank"}[中国及多国专利信息查询](http://cpquery.cnipa.gov.cn/){:target="_blank"}
 
-[baidu](https://baidu.com){:target="_blank"}
+
+
+国家或地区专利局
 
 [baidu](https://baidu.com){:target="_blank"}
 
