@@ -22,8 +22,8 @@ layout: home
 商业数据库
 
 <div>新的段落</div>
-           <div>新的段落</div>
-
+<div>新的段落</div>
+<script type = "text/javascript">document.write(Date());</script>
 [baidu](https://baidu.com){:target="_blank"}
            [baidu](https://baidu.com){:target="_blank"}
 [baidu](https://baidu.com){:target="_blank"}
